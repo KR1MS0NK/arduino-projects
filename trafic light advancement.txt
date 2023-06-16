@@ -1,0 +1,3 @@
+trafic light will contain basic teafic light code
+detect cars on the road- turns the light green for the side with the most trafic for a period 
+if there are no cars, turns light green for side with cars
